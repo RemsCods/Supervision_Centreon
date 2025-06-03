@@ -1,0 +1,2573 @@
+2025-05-12 09:17:38,039 - ✅ Connecté au broker MQTT avec le code de retour: Success
+2025-05-12 09:17:38,039 - 📡 Abonné au topic: centreon/+
+2025-05-12 09:17:38,039 - 📡 Abonné au topic: env/+
+2025-05-12 09:17:38,473 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:17:38,473 - <frozen importlib._bootstrap_external>:729: size=34.1 KiB, count=252, average=139 B
+2025-05-12 09:17:38,473 - <frozen abc>:123: size=12.9 KiB, count=154, average=86 B
+2025-05-12 09:17:38,473 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/urllib3/response.py:119: size=7360 B, count=3, average=2453 B
+2025-05-12 09:17:38,473 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 09:17:38,473 - /usr/lib/python3.11/shlex.py:19: size=2485 B, count=9, average=276 B
+2025-05-12 09:17:49,175 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:17:49,408 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:17:49,616 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:17:49,829 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:17:58,261 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:17:58,502 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:17:58,702 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:17:58,908 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:18:07,288 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:18:07,554 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:18:08,333 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:18:08,539 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:18:16,933 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:18:17,172 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:18:17,383 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:18:17,581 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:18:26,023 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:18:26,243 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:18:26,457 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:18:26,652 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:18:30,655 - 📤 etat/hote → 0
+2025-05-12 09:18:30,656 - 📤 etat/service → 0
+2025-05-12 09:18:30,656 - 📤 etat/env → 0
+2025-05-12 09:18:35,065 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:18:35,332 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:18:35,534 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:18:35,733 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:18:44,129 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:18:44,388 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:18:44,583 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:18:44,780 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:18:53,232 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:18:53,497 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:18:53,695 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:18:53,892 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:19:02,265 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:19:02,463 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:19:02,661 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:19:02,861 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:19:11,340 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:19:11,613 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:19:11,810 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:19:12,007 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:19:20,422 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:19:20,625 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:19:20,836 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:19:21,034 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:19:21,765 - 📤 etat/hote → 0
+2025-05-12 09:19:21,765 - 📤 etat/service → 0
+2025-05-12 09:19:21,766 - 📤 etat/env → 0
+2025-05-12 09:19:21,771 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:19:21,771 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:19:21,771 - /usr/lib/python3.11/tracemalloc.py:505: size=14.1 KiB, count=257, average=56 B
+2025-05-12 09:19:21,771 - <frozen abc>:123: size=12.4 KiB, count=145, average=87 B
+2025-05-12 09:19:21,771 - /usr/lib/python3.11/tracemalloc.py:498: size=12.0 KiB, count=257, average=48 B
+2025-05-12 09:19:21,771 - /usr/lib/python3.11/tracemalloc.py:193: size=12.0 KiB, count=257, average=48 B
+2025-05-12 09:19:29,497 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:19:29,737 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:19:29,940 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:19:30,141 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:19:38,575 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:19:38,813 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:19:39,009 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:19:39,205 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:19:47,668 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:19:47,937 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:19:48,149 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:19:48,351 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:19:56,749 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:19:56,979 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:19:57,178 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:19:57,387 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:20:05,811 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:20:06,053 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:20:06,251 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:20:06,450 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:20:12,981 - 📤 etat/hote → 0
+2025-05-12 09:20:12,982 - 📤 etat/service → 0
+2025-05-12 09:20:12,982 - 📤 etat/env → 0
+2025-05-12 09:20:14,915 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:20:15,161 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:20:15,362 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:20:15,563 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:20:23,975 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:20:24,222 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:20:24,422 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:20:24,619 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:20:33,065 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:20:33,290 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:20:33,532 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:20:33,729 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:20:42,156 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:20:42,394 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:20:42,592 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:20:42,788 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:20:51,291 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:20:51,532 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:20:51,729 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:20:51,928 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:21:00,331 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:21:00,572 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:21:00,766 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:21:00,964 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:21:04,135 - 📤 etat/hote → 0
+2025-05-12 09:21:04,136 - 📤 etat/service → 0
+2025-05-12 09:21:04,137 - 📤 etat/env → 0
+2025-05-12 09:21:04,142 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:21:04,142 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:21:04,142 - <frozen abc>:123: size=12.1 KiB, count=140, average=88 B
+2025-05-12 09:21:04,142 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:21:04,142 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 09:21:04,142 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 09:21:09,425 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:21:09,672 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:21:09,910 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:21:10,104 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:21:18,519 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:21:18,778 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:21:18,996 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:21:19,195 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:21:27,602 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:21:27,844 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:21:28,049 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:21:28,244 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:21:36,700 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:21:36,907 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:21:37,104 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:21:37,330 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:21:45,813 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:21:46,055 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:21:46,252 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:21:46,451 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:21:54,900 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:21:55,108 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:21:55,310 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:21:55,444 - 📤 etat/hote → 0
+2025-05-12 09:21:55,445 - 📤 etat/service → 0
+2025-05-12 09:21:55,445 - 📤 etat/env → 0
+2025-05-12 09:21:55,552 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:22:04,442 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:22:04,712 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:22:04,909 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:22:05,107 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:22:13,104 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:22:13,968 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:22:14,206 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:22:14,440 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:22:22,216 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:22:22,462 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:22:22,661 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:22:22,888 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:22:31,320 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:22:31,526 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:22:31,724 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:22:31,921 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:22:40,429 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:22:40,634 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:22:40,832 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:22:41,028 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:22:46,675 - 📤 etat/hote → 0
+2025-05-12 09:22:46,675 - 📤 etat/service → 0
+2025-05-12 09:22:46,676 - 📤 etat/env → 0
+2025-05-12 09:22:46,680 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:22:46,680 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:22:46,680 - <frozen abc>:123: size=11.9 KiB, count=138, average=89 B
+2025-05-12 09:22:46,681 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:22:46,681 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:22:46,681 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:22:49,563 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:22:49,793 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:22:49,990 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:22:50,188 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:22:58,646 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:22:58,848 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:22:59,044 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:22:59,242 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:23:07,738 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:23:08,000 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:23:08,197 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:23:08,394 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:23:16,854 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:23:17,093 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:23:17,300 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:23:17,528 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:23:25,967 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:23:26,228 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:23:26,448 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:23:26,653 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:23:35,075 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:23:35,324 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:23:35,527 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:23:35,724 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:23:37,917 - 📤 etat/hote → 0
+2025-05-12 09:23:37,917 - 📤 etat/service → 0
+2025-05-12 09:23:37,917 - 📤 etat/env → 0
+2025-05-12 09:23:44,197 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:23:44,423 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:23:44,645 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:23:44,863 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:23:53,321 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:23:53,606 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:23:53,840 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:23:54,037 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:24:02,430 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:24:02,694 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:24:02,890 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:24:03,083 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:24:11,588 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:24:11,825 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:24:12,020 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:24:12,214 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:24:20,697 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:24:20,950 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:24:21,147 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:24:21,372 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:24:29,024 - 📤 etat/hote → 0
+2025-05-12 09:24:29,024 - 📤 etat/service → 0
+2025-05-12 09:24:29,024 - 📤 etat/env → 0
+2025-05-12 09:24:29,029 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:24:29,029 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:24:29,029 - <frozen abc>:123: size=11.9 KiB, count=137, average=89 B
+2025-05-12 09:24:29,029 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=205, average=56 B
+2025-05-12 09:24:29,030 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:24:29,030 - /usr/lib/python3.11/tracemalloc.py:498: size=9840 B, count=205, average=48 B
+2025-05-12 09:24:29,798 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:24:29,999 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:24:30,195 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:24:30,391 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:24:38,935 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:24:39,195 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:24:39,434 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:24:39,630 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:24:48,077 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:24:48,325 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:24:48,524 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:24:48,721 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:24:57,186 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:24:57,390 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:24:57,585 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:24:57,782 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:25:06,337 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:25:06,579 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:25:06,774 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:25:06,981 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:25:15,484 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:25:15,731 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:25:15,929 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:25:16,129 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:25:20,305 - 📤 etat/hote → 0
+2025-05-12 09:25:20,305 - 📤 etat/service → 0
+2025-05-12 09:25:20,306 - 📤 etat/env → 0
+2025-05-12 09:25:24,589 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:25:24,843 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:25:25,037 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:25:25,234 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:25:33,740 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:25:33,995 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:25:34,187 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:25:34,382 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:25:42,877 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:25:43,127 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:25:43,324 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:25:43,527 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:25:52,044 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:25:52,307 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:25:52,503 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:25:52,699 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:26:01,153 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:26:01,352 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:26:01,551 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:26:01,754 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:26:10,303 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:26:10,503 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:26:10,699 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:26:10,895 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:26:11,461 - 📤 etat/hote → 0
+2025-05-12 09:26:11,462 - 📤 etat/service → 0
+2025-05-12 09:26:11,462 - 📤 etat/env → 0
+2025-05-12 09:26:11,467 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:26:11,467 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:26:11,467 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=12.2 KiB, count=192, average=65 B
+2025-05-12 09:26:11,467 - <frozen abc>:123: size=11.8 KiB, count=135, average=89 B
+2025-05-12 09:26:11,467 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:26:11,467 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:62: size=10.1 KiB, count=96, average=108 B
+2025-05-12 09:26:19,445 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:26:19,682 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:26:19,876 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:26:20,069 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:26:28,587 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:26:28,830 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:26:29,025 - 📩 Nouvelle valeure sur le topic env/humidite: 54.0
+2025-05-12 09:26:29,258 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:26:37,778 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:26:38,044 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:26:38,241 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:26:38,442 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:26:46,891 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:26:47,122 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:26:47,318 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:26:47,517 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:26:56,038 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:26:56,251 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:26:56,450 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:26:56,657 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:27:02,664 - 📤 etat/hote → 0
+2025-05-12 09:27:02,665 - 📤 etat/service → 0
+2025-05-12 09:27:02,665 - 📤 etat/env → 0
+2025-05-12 09:27:05,229 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:27:05,472 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:27:05,669 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:27:05,862 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:27:14,350 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:27:14,550 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:27:14,746 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:27:14,942 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:27:23,493 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:27:23,695 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:27:23,892 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:27:24,091 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:27:32,680 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:27:32,947 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:27:33,143 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:27:33,358 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:27:41,814 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:27:42,017 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:27:42,212 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:27:42,410 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:27:50,965 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:27:51,195 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:27:51,390 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:27:51,588 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:27:53,975 - 📤 etat/hote → 0
+2025-05-12 09:27:53,975 - 📤 etat/service → 0
+2025-05-12 09:27:53,975 - 📤 etat/env → 0
+2025-05-12 09:27:53,980 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:27:53,980 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:27:53,980 - <frozen abc>:123: size=11.7 KiB, count=134, average=89 B
+2025-05-12 09:27:53,980 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:27:53,981 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 09:27:53,981 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 09:28:00,146 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:28:00,382 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:28:00,580 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:28:00,775 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:28:09,295 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:28:09,553 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:28:09,747 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:28:09,943 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:28:18,455 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:28:18,657 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:28:18,853 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:28:19,047 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:28:27,621 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:28:27,820 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:28:28,016 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:28:28,234 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:28:36,788 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:28:36,989 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:28:37,186 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:28:37,382 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:28:45,076 - 📤 etat/hote → 0
+2025-05-12 09:28:45,076 - 📤 etat/service → 0
+2025-05-12 09:28:45,076 - 📤 etat/env → 0
+2025-05-12 09:28:45,949 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:28:46,150 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:28:46,342 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:28:46,539 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:28:55,161 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:28:55,434 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:28:55,643 - 📩 Nouvelle valeure sur le topic env/humidite: 54.0
+2025-05-12 09:28:55,839 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:29:04,306 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:29:04,507 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:29:04,701 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:29:04,922 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:29:13,471 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:29:13,719 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:29:13,915 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:29:14,111 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:29:22,649 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:29:22,847 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:29:23,043 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:29:23,240 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:29:31,821 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:29:32,022 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:29:32,217 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:29:32,411 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:29:36,178 - 📤 etat/hote → 0
+2025-05-12 09:29:36,178 - 📤 etat/service → 0
+2025-05-12 09:29:36,179 - 📤 etat/env → 0
+2025-05-12 09:29:36,183 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:29:36,184 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:29:36,184 - <frozen abc>:123: size=11.6 KiB, count=132, average=90 B
+2025-05-12 09:29:36,184 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:29:36,184 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:29:36,184 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:29:41,035 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:29:41,238 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:29:41,432 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:29:41,638 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:29:50,212 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:29:50,439 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:29:50,639 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:29:50,851 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:29:59,353 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:29:59,607 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:29:59,816 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:30:00,013 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:30:08,561 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:30:08,826 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:30:09,021 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:30:09,218 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:30:17,719 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:30:17,973 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:30:18,168 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:30:18,381 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:30:26,896 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:30:27,149 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:30:27,263 - 📤 etat/hote → 0
+2025-05-12 09:30:27,263 - 📤 etat/service → 0
+2025-05-12 09:30:27,263 - 📤 etat/env → 0
+2025-05-12 09:30:27,374 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:30:27,571 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:30:36,086 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:30:36,290 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:30:36,485 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:30:36,686 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:30:45,313 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:30:45,543 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:30:45,738 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:30:45,957 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:30:54,463 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:30:54,684 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:30:54,881 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:30:55,077 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:31:03,651 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:31:03,902 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:31:04,099 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:31:04,293 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:31:12,868 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:31:13,120 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:31:13,315 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:31:13,509 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:31:18,408 - 📤 etat/hote → 0
+2025-05-12 09:31:18,408 - 📤 etat/service → 0
+2025-05-12 09:31:18,408 - 📤 etat/env → 0
+2025-05-12 09:31:18,414 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:31:18,414 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:31:18,414 - <frozen abc>:123: size=11.6 KiB, count=132, average=90 B
+2025-05-12 09:31:18,414 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:31:18,414 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:31:18,414 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:31:22,039 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:31:22,285 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:31:22,479 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:31:22,677 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:31:31,232 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:31:31,448 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:31:31,650 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:31:31,846 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:31:40,480 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:31:40,731 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:31:40,925 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:31:41,124 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:31:49,636 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:31:49,888 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:31:50,083 - 📩 Nouvelle valeure sur le topic env/humidite: 54.0
+2025-05-12 09:31:50,279 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:31:58,836 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:31:59,043 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:31:59,247 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:31:59,537 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:32:08,040 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:32:08,242 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:32:08,453 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:32:08,656 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:32:09,616 - 📤 etat/hote → 0
+2025-05-12 09:32:09,617 - 📤 etat/service → 0
+2025-05-12 09:32:09,618 - 📤 etat/env → 0
+2025-05-12 09:32:17,250 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:32:17,448 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:32:17,649 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:32:17,859 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:32:26,461 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:32:26,669 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:32:26,865 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:32:27,062 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:32:35,648 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:32:35,847 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:32:36,040 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:32:36,233 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:32:44,854 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:32:45,110 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:32:45,343 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:32:45,563 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:32:54,054 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:32:54,279 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:32:54,481 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:32:54,683 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:33:00,726 - 📤 etat/hote → 0
+2025-05-12 09:33:00,726 - 📤 etat/service → 0
+2025-05-12 09:33:00,727 - 📤 etat/env → 0
+2025-05-12 09:33:00,732 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:33:00,732 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:33:00,732 - <frozen abc>:123: size=11.6 KiB, count=132, average=90 B
+2025-05-12 09:33:00,732 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:33:00,732 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 09:33:00,732 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 09:33:03,284 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:33:03,507 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:33:03,708 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:33:03,903 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:33:12,494 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:33:12,759 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:33:12,955 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:33:13,193 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:33:21,697 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:33:21,901 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:33:22,124 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:33:22,316 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:33:30,930 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:33:31,134 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:33:31,336 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:33:31,578 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:33:40,141 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:33:40,377 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:33:40,573 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:33:40,770 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:33:49,406 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:33:49,611 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:33:49,804 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:33:49,997 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:33:51,955 - 📤 etat/hote → 0
+2025-05-12 09:33:51,956 - 📤 etat/service → 0
+2025-05-12 09:33:51,956 - 📤 etat/env → 0
+2025-05-12 09:33:58,600 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:33:58,846 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:33:59,056 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:33:59,252 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:34:07,800 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:34:08,014 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:34:08,210 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:34:08,410 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:34:17,044 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:34:17,268 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:34:17,462 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:34:17,662 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:34:26,269 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:34:26,473 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:34:26,670 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:34:26,867 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:34:35,485 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:34:35,701 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:34:35,897 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:34:36,109 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:34:43,127 - 📤 etat/hote → 0
+2025-05-12 09:34:43,127 - 📤 etat/service → 0
+2025-05-12 09:34:43,127 - 📤 etat/env → 0
+2025-05-12 09:34:43,132 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:34:43,132 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:34:43,132 - <frozen abc>:123: size=11.6 KiB, count=132, average=90 B
+2025-05-12 09:34:43,132 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:34:43,133 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 09:34:43,133 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 09:34:44,718 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:34:44,920 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:34:45,124 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:34:45,322 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:34:53,960 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:34:54,162 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:34:54,359 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:34:54,558 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:35:03,198 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:35:03,403 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:35:03,716 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:35:03,909 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:35:12,435 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:35:12,712 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:35:12,908 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:35:13,107 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:35:21,711 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:35:21,915 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:35:22,108 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:35:22,301 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:35:30,923 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:35:31,154 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:35:31,347 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:35:31,559 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:35:34,341 - 📤 etat/hote → 0
+2025-05-12 09:35:34,341 - 📤 etat/service → 0
+2025-05-12 09:35:34,342 - 📤 etat/env → 0
+2025-05-12 09:35:40,162 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:35:40,367 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:35:40,578 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:35:40,784 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:35:49,421 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:35:49,662 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:35:49,881 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:35:50,081 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:35:58,656 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:35:58,861 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:35:59,060 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:35:59,261 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:36:07,916 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:36:08,159 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:36:08,355 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:36:08,575 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:36:17,169 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:36:17,385 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:36:17,578 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:36:17,773 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:36:25,528 - 📤 etat/hote → 0
+2025-05-12 09:36:25,529 - 📤 etat/service → 0
+2025-05-12 09:36:25,530 - 📤 etat/env → 0
+2025-05-12 09:36:25,534 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:36:25,534 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:36:25,535 - <frozen abc>:123: size=11.6 KiB, count=132, average=90 B
+2025-05-12 09:36:25,535 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:36:25,535 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:36:25,535 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:36:26,416 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:36:26,628 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:36:26,821 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:36:27,017 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:36:35,667 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:36:35,870 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:36:36,065 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:36:36,262 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:36:44,930 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:36:45,180 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:36:45,377 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:36:45,574 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:36:54,184 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:36:54,423 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:36:54,615 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:36:54,809 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:37:03,448 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:37:03,656 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:37:03,866 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:37:04,063 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:37:12,719 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:37:12,950 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:37:13,149 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:37:13,359 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:37:16,636 - 📤 etat/hote → 0
+2025-05-12 09:37:16,636 - 📤 etat/service → 0
+2025-05-12 09:37:16,636 - 📤 etat/env → 0
+2025-05-12 09:37:21,964 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:37:22,166 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:37:22,364 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:37:22,564 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:37:31,236 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:37:31,441 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:37:31,654 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:37:31,850 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:37:40,524 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:37:40,761 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:37:40,957 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:37:41,150 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:37:49,789 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:37:49,987 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:37:50,221 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:37:50,417 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:37:59,051 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:37:59,266 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:37:59,466 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:37:59,661 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:38:07,841 - 📤 etat/hote → 0
+2025-05-12 09:38:07,841 - 📤 etat/service → 0
+2025-05-12 09:38:07,842 - 📤 etat/env → 0
+2025-05-12 09:38:07,846 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:38:07,846 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:38:07,847 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:38:07,847 - <frozen abc>:123: size=11.1 KiB, count=125, average=91 B
+2025-05-12 09:38:07,847 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:38:07,847 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:38:08,319 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:38:08,568 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:38:08,771 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:38:08,973 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:38:17,591 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:38:17,794 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:38:18,004 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:38:18,233 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:38:26,883 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:38:27,091 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:38:27,301 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:38:27,497 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:38:36,161 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:38:36,363 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:38:36,557 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:38:36,754 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:38:45,415 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:38:45,616 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:38:45,810 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:38:46,018 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:38:54,783 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:38:55,047 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:38:55,246 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:38:55,456 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:38:59,100 - 📤 etat/hote → 0
+2025-05-12 09:38:59,100 - 📤 etat/service → 0
+2025-05-12 09:38:59,101 - 📤 etat/env → 0
+2025-05-12 09:39:04,008 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:39:04,208 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:39:04,419 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:39:04,614 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:39:13,271 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:39:13,474 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:39:13,668 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:39:13,864 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:39:22,581 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:39:22,783 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:39:22,979 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:39:23,177 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:39:31,905 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:39:32,105 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:39:32,302 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:39:32,495 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:39:41,134 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:39:41,331 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:39:41,525 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:39:41,722 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:39:50,264 - 📤 etat/hote → 0
+2025-05-12 09:39:50,265 - 📤 etat/service → 0
+2025-05-12 09:39:50,265 - 📤 etat/env → 0
+2025-05-12 09:39:50,270 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:39:50,271 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:39:50,271 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=207, average=56 B
+2025-05-12 09:39:50,271 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:39:50,271 - <frozen abc>:123: size=10.8 KiB, count=119, average=93 B
+2025-05-12 09:39:50,271 - /usr/lib/python3.11/tracemalloc.py:498: size=9936 B, count=207, average=48 B
+2025-05-12 09:39:50,419 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:39:50,684 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:39:50,877 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:39:51,075 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:39:59,791 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:39:59,997 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:40:00,196 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:40:00,407 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:40:09,019 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:40:09,221 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:40:09,421 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:40:09,634 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:40:18,366 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:40:18,565 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:40:18,760 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:40:18,956 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:40:27,612 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:40:27,845 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:40:28,041 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:40:28,235 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:40:36,918 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:40:37,123 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:40:37,317 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:40:37,510 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:40:41,377 - 📤 etat/hote → 0
+2025-05-12 09:40:41,378 - 📤 etat/service → 0
+2025-05-12 09:40:41,378 - 📤 etat/env → 0
+2025-05-12 09:40:46,337 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:40:46,536 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:40:46,771 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:40:46,966 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:40:55,534 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:40:55,738 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:40:55,933 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:40:56,164 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:41:04,812 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:41:05,022 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:41:05,216 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:41:05,418 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:41:14,124 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:41:14,365 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:41:14,563 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:41:14,780 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:41:23,462 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:41:23,660 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:41:23,869 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:41:24,063 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:41:32,447 - 📤 etat/hote → 0
+2025-05-12 09:41:32,447 - 📤 etat/service → 0
+2025-05-12 09:41:32,448 - 📤 etat/env → 0
+2025-05-12 09:41:32,453 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:41:32,453 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:41:32,453 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:41:32,453 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:41:32,453 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:41:32,453 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:41:32,748 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:41:32,951 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:41:33,183 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:41:33,379 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:41:42,044 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:41:42,247 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:41:42,441 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:41:42,642 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:41:51,354 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:41:51,596 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:41:51,792 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:41:52,002 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:42:00,665 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:42:00,898 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:42:01,097 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:42:01,309 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:42:10,005 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:42:10,210 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:42:10,408 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:42:10,605 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:42:19,294 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:42:19,498 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:42:19,694 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:42:19,891 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:42:23,663 - 📤 etat/hote → 0
+2025-05-12 09:42:23,663 - 📤 etat/service → 0
+2025-05-12 09:42:23,663 - 📤 etat/env → 0
+2025-05-12 09:42:28,607 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:42:28,808 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:42:29,002 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:42:29,210 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:42:37,927 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:42:38,151 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:42:38,345 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:42:38,540 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:42:47,294 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:42:47,495 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:42:47,690 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:42:47,884 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:42:56,610 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:42:56,831 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:42:57,028 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:42:57,245 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:43:05,887 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:43:06,153 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:43:06,353 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:43:06,546 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:43:14,772 - 📤 etat/hote → 0
+2025-05-12 09:43:14,772 - 📤 etat/service → 0
+2025-05-12 09:43:14,772 - 📤 etat/env → 0
+2025-05-12 09:43:14,777 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:43:14,777 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:43:14,777 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:43:14,777 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:43:14,777 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:43:14,777 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:43:15,249 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:43:15,449 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:43:15,661 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:43:15,855 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:43:24,554 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:43:24,771 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:43:24,975 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:43:25,217 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:43:33,887 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:43:34,127 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:43:34,325 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:43:34,522 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:43:43,224 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:43:43,452 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:43:43,647 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:43:43,845 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:43:52,556 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:43:52,760 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:43:52,953 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:43:53,147 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:44:01,890 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:44:02,145 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:44:02,338 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:44:02,531 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:44:05,979 - 📤 etat/hote → 0
+2025-05-12 09:44:05,979 - 📤 etat/service → 0
+2025-05-12 09:44:05,979 - 📤 etat/env → 0
+2025-05-12 09:44:11,254 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:44:11,455 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:44:11,649 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:44:11,847 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:44:20,577 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:44:20,798 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:44:20,992 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:44:21,186 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:44:29,974 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:44:30,172 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:44:30,369 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:44:30,564 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:44:39,279 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:44:39,485 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:44:39,678 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:44:39,878 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:44:48,662 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:44:48,860 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:44:49,052 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:44:49,246 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:44:57,075 - 📤 etat/hote → 0
+2025-05-12 09:44:57,076 - 📤 etat/service → 0
+2025-05-12 09:44:57,077 - 📤 etat/env → 0
+2025-05-12 09:44:57,081 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:44:57,082 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:44:57,082 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:44:57,082 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:44:57,082 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:44:57,082 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:44:57,962 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:44:58,180 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:44:58,380 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:44:58,573 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:45:07,319 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:45:07,517 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:45:07,712 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:45:07,938 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:45:16,662 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:45:16,865 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:45:17,072 - 📩 Nouvelle valeure sur le topic env/humidite: 54.0
+2025-05-12 09:45:17,283 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:45:26,407 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:45:26,662 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:45:26,858 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:45:27,052 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:45:35,407 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:45:35,631 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:45:35,841 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:45:36,050 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:45:44,720 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:45:44,953 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:45:45,165 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:45:45,361 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:45:48,309 - 📤 etat/hote → 0
+2025-05-12 09:45:48,309 - 📤 etat/service → 0
+2025-05-12 09:45:48,310 - 📤 etat/env → 0
+2025-05-12 09:45:54,077 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:45:54,315 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:45:54,533 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:45:54,728 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:46:03,796 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:46:04,051 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:46:04,245 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:46:04,440 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:46:12,808 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:46:13,013 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:46:13,209 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:46:13,421 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:46:22,158 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:46:22,362 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:46:22,557 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:46:22,756 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:46:31,551 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:46:31,751 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:46:31,946 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:46:32,141 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:46:39,357 - 📤 etat/hote → 0
+2025-05-12 09:46:39,357 - 📤 etat/service → 0
+2025-05-12 09:46:39,357 - 📤 etat/env → 0
+2025-05-12 09:46:39,362 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:46:39,362 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:46:39,362 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:46:39,362 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:46:39,362 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:46:39,363 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:46:40,887 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:46:41,086 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:46:41,294 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:46:41,491 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:46:50,249 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:46:50,451 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:46:50,644 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:46:50,854 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:46:59,629 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:46:59,894 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:47:00,107 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:47:00,302 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:47:08,998 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:47:09,196 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:47:09,390 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:47:09,590 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:47:18,364 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:47:18,567 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:47:18,763 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:47:18,957 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:47:27,743 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:47:27,980 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:47:28,177 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:47:28,382 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:47:30,470 - 📤 etat/hote → 0
+2025-05-12 09:47:30,470 - 📤 etat/service → 0
+2025-05-12 09:47:30,471 - 📤 etat/env → 0
+2025-05-12 09:47:37,125 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:47:37,324 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:47:37,526 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:47:37,746 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:47:46,495 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:47:46,695 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:47:46,891 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:47:47,085 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:47:55,878 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:47:56,136 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:47:56,363 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:47:56,559 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:48:05,261 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:48:05,464 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:48:05,658 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:48:05,855 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:48:14,633 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:48:14,870 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:48:15,065 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:48:15,260 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:48:21,514 - 📤 etat/hote → 0
+2025-05-12 09:48:21,515 - 📤 etat/service → 0
+2025-05-12 09:48:21,515 - 📤 etat/env → 0
+2025-05-12 09:48:21,520 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:48:21,520 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:48:21,520 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=206, average=56 B
+2025-05-12 09:48:21,521 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:48:21,521 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:48:21,521 - /usr/lib/python3.11/tracemalloc.py:498: size=9888 B, count=206, average=48 B
+2025-05-12 09:48:24,182 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:48:24,385 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:48:24,580 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:48:24,779 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:48:33,527 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:48:33,726 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:48:33,922 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:48:34,121 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:48:42,799 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:48:43,053 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:48:43,248 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:48:43,473 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:48:52,664 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:48:52,899 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:48:53,095 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:48:53,292 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:49:01,801 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:49:02,009 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:49:02,205 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:49:02,465 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:49:11,014 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:49:11,218 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:49:11,412 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:49:11,607 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:49:12,557 - 📤 etat/hote → 0
+2025-05-12 09:49:12,557 - 📤 etat/service → 0
+2025-05-12 09:49:12,558 - 📤 etat/env → 0
+2025-05-12 09:49:20,655 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:49:20,872 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:49:21,069 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:49:21,266 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:49:29,742 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:49:29,940 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:49:30,135 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:49:30,330 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:49:39,212 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:49:39,420 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:49:39,617 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:49:39,815 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:49:48,786 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:49:49,037 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:49:49,249 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:49:49,448 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:49:57,924 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:49:58,130 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:49:58,328 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:49:58,521 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:50:03,622 - 📤 etat/hote → 0
+2025-05-12 09:50:03,623 - 📤 etat/service → 0
+2025-05-12 09:50:03,623 - 📤 etat/env → 0
+2025-05-12 09:50:03,629 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:50:03,629 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:50:03,629 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=207, average=56 B
+2025-05-12 09:50:03,630 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:50:03,630 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:50:03,630 - /usr/lib/python3.11/tracemalloc.py:498: size=9936 B, count=207, average=48 B
+2025-05-12 09:50:07,331 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:50:09,754 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:50:09,978 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:50:10,174 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:50:16,730 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:50:16,966 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:50:17,178 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:50:17,373 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:50:26,120 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:50:26,367 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:50:26,559 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:50:26,757 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:50:35,532 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:50:35,734 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:50:35,933 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:50:36,133 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:50:44,936 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:50:45,180 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:50:45,376 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:50:45,572 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:50:54,346 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:50:54,558 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:50:54,758 - 📤 etat/hote → 0
+2025-05-12 09:50:54,758 - 📤 etat/service → 0
+2025-05-12 09:50:54,759 - 📤 etat/env → 0
+2025-05-12 09:50:54,868 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:50:55,061 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:51:03,758 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:51:03,996 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:51:04,189 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:51:04,390 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:51:13,172 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:51:13,371 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:51:13,580 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:51:13,795 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:51:22,579 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:51:22,817 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:51:23,013 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:51:23,207 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:51:32,014 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:51:32,247 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:51:32,444 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:51:32,639 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:51:41,415 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:51:41,647 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:51:41,844 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:51:42,037 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:51:45,920 - 📤 etat/hote → 0
+2025-05-12 09:51:45,920 - 📤 etat/service → 0
+2025-05-12 09:51:45,921 - 📤 etat/env → 0
+2025-05-12 09:51:45,925 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:51:45,926 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:51:45,926 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:51:45,926 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:51:45,926 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:51:45,926 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:51:50,827 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:51:51,028 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:51:51,225 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:51:51,424 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:52:00,251 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:52:00,454 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:52:00,656 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:52:00,856 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:52:09,691 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:52:09,904 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:52:10,101 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:52:10,298 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:52:19,093 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:52:19,328 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:52:19,524 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:52:19,718 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:52:28,515 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:52:28,746 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:52:28,943 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:52:29,138 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:52:37,056 - 📤 etat/hote → 0
+2025-05-12 09:52:37,057 - 📤 etat/service → 0
+2025-05-12 09:52:37,057 - 📤 etat/env → 0
+2025-05-12 09:52:37,947 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:52:38,147 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:52:38,366 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:52:38,583 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:52:47,374 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:52:47,622 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:52:47,844 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:52:48,046 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:52:56,798 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:52:56,998 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:52:57,207 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:52:57,421 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:53:06,281 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:53:06,516 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:53:06,712 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:53:06,922 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:53:15,707 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:53:15,955 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:53:16,149 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:53:16,356 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:53:25,098 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:53:25,302 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:53:25,496 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:53:25,689 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:53:28,241 - 📤 etat/hote → 0
+2025-05-12 09:53:28,241 - 📤 etat/service → 0
+2025-05-12 09:53:28,242 - 📤 etat/env → 0
+2025-05-12 09:53:28,246 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:53:28,246 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:53:28,247 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:53:28,247 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 09:53:28,247 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:53:28,247 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 09:53:34,567 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:53:34,786 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:53:34,989 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:53:35,185 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:53:43,980 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:53:44,182 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:53:44,377 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:53:44,573 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:53:53,410 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:53:53,612 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:53:53,827 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:53:54,021 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:54:02,857 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:54:03,059 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:54:03,253 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:54:03,450 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:54:12,307 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:54:12,509 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:54:12,702 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:54:12,899 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:54:19,394 - 📤 etat/hote → 0
+2025-05-12 09:54:19,395 - 📤 etat/service → 0
+2025-05-12 09:54:19,395 - 📤 etat/env → 0
+2025-05-12 09:54:21,743 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:54:21,950 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:54:22,145 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:54:22,339 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:54:31,198 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:54:31,401 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:54:31,597 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:54:31,808 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:54:40,666 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:54:40,878 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:54:41,072 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:54:41,265 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:54:50,083 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:54:50,278 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:54:50,494 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:54:50,687 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:54:59,535 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:54:59,734 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:54:59,928 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:55:00,167 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:55:08,990 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:55:09,192 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:55:09,406 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:55:09,601 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:55:10,493 - 📤 etat/hote → 0
+2025-05-12 09:55:10,493 - 📤 etat/service → 0
+2025-05-12 09:55:10,494 - 📤 etat/env → 0
+2025-05-12 09:55:10,498 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:55:10,499 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:55:10,499 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 09:55:10,499 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:55:10,499 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:55:10,499 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:55:18,447 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:55:18,679 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:55:18,874 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:55:19,070 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:55:27,898 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:55:28,127 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:55:28,324 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:55:28,535 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:55:37,355 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:55:37,569 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:55:37,766 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:55:37,965 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:55:46,813 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:55:47,011 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:55:47,228 - 📩 Nouvelle valeure sur le topic env/humidite: 56.0
+2025-05-12 09:55:47,424 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:55:56,309 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:55:56,529 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:55:56,737 - 📩 Nouvelle valeure sur le topic env/humidite: 57.0
+2025-05-12 09:55:56,934 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:56:01,602 - 📤 etat/hote → 0
+2025-05-12 09:56:01,603 - 📤 etat/service → 0
+2025-05-12 09:56:01,603 - 📤 etat/env → 0
+2025-05-12 09:56:05,749 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:56:05,956 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:56:06,152 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:56:06,347 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:56:15,204 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:56:15,410 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:56:15,611 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:56:15,843 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:56:24,675 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:56:24,877 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:56:25,071 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:56:25,266 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:56:34,145 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:56:34,386 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:56:34,581 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:56:34,775 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:56:43,645 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:56:44,035 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:56:44,293 - 📩 Nouvelle valeure sur le topic env/humidite: 53.0
+2025-05-12 09:56:44,490 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:56:52,731 - 📤 etat/hote → 0
+2025-05-12 09:56:52,731 - 📤 etat/service → 0
+2025-05-12 09:56:52,732 - 📤 etat/env → 0
+2025-05-12 09:56:52,736 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:56:52,736 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:56:52,736 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:56:52,737 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:56:52,737 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=10.1 KiB, count=160, average=65 B
+2025-05-12 09:56:52,737 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:56:53,076 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:56:53,329 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:56:53,522 - 📩 Nouvelle valeure sur le topic env/humidite: 54.0
+2025-05-12 09:56:53,715 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:57:02,547 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:57:02,750 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:57:03,056 - 📩 Nouvelle valeure sur le topic env/humidite: 52.0
+2025-05-12 09:57:03,251 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:57:12,010 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:57:12,212 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:57:12,404 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:57:12,598 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:57:21,494 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:57:21,724 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:57:21,921 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:57:22,119 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:57:30,954 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 09:57:31,178 - 📩 Nouvelle valeure sur le topic env/temperature: 24.0
+2025-05-12 09:57:31,402 - 📩 Nouvelle valeure sur le topic env/humidite: 51.0
+2025-05-12 09:57:31,594 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 09:57:43,822 - 📤 etat/hote → 0
+2025-05-12 09:57:43,822 - 📤 etat/service → 0
+2025-05-12 09:57:43,822 - 📤 etat/env → 0
+2025-05-12 09:58:34,901 - 📤 etat/hote → 0
+2025-05-12 09:58:34,901 - 📤 etat/service → 0
+2025-05-12 09:58:34,902 - 📤 etat/env → 0
+2025-05-12 09:58:34,906 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 09:58:34,907 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 09:58:34,907 - /usr/lib/python3.11/tracemalloc.py:505: size=11.1 KiB, count=203, average=56 B
+2025-05-12 09:58:34,907 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 09:58:34,907 - /usr/lib/python3.11/tracemalloc.py:498: size=9744 B, count=203, average=48 B
+2025-05-12 09:58:34,907 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=5185 B, count=80, average=65 B
+2025-05-12 09:59:25,953 - 📤 etat/hote → 0
+2025-05-12 09:59:25,954 - 📤 etat/service → 0
+2025-05-12 09:59:25,954 - 📤 etat/env → 0
+2025-05-12 10:00:17,017 - 📤 etat/hote → 0
+2025-05-12 10:00:17,017 - 📤 etat/service → 0
+2025-05-12 10:00:17,018 - 📤 etat/env → 0
+2025-05-12 10:00:17,022 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:00:17,022 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:00:17,022 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=204, average=56 B
+2025-05-12 10:00:17,022 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:00:17,023 - /usr/lib/python3.11/tracemalloc.py:498: size=9792 B, count=204, average=48 B
+2025-05-12 10:00:17,023 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:01:08,195 - 📤 etat/hote → 0
+2025-05-12 10:01:08,195 - 📤 etat/service → 0
+2025-05-12 10:01:08,196 - 📤 etat/env → 0
+2025-05-12 10:01:59,787 - 📤 etat/hote → 0
+2025-05-12 10:01:59,788 - 📤 etat/service → 0
+2025-05-12 10:01:59,789 - 📤 etat/env → 0
+2025-05-12 10:01:59,793 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:01:59,793 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:01:59,794 - /usr/lib/python3.11/tracemalloc.py:505: size=10.9 KiB, count=200, average=56 B
+2025-05-12 10:01:59,794 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:01:59,794 - /usr/lib/python3.11/tracemalloc.py:498: size=9600 B, count=200, average=48 B
+2025-05-12 10:01:59,794 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:02:50,944 - 📤 etat/hote → 0
+2025-05-12 10:02:50,945 - 📤 etat/service → 0
+2025-05-12 10:02:50,945 - 📤 etat/env → 0
+2025-05-12 10:03:42,216 - 📤 etat/hote → 0
+2025-05-12 10:03:42,217 - 📤 etat/service → 0
+2025-05-12 10:03:42,218 - 📤 etat/env → 0
+2025-05-12 10:03:42,222 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:03:42,222 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:03:42,223 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:03:42,223 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:03:42,223 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:03:42,223 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:04:33,501 - 📤 etat/hote → 0
+2025-05-12 10:04:33,502 - 📤 etat/service → 0
+2025-05-12 10:04:33,502 - 📤 etat/env → 0
+2025-05-12 10:05:24,775 - 📤 etat/hote → 0
+2025-05-12 10:05:24,776 - 📤 etat/service → 0
+2025-05-12 10:05:24,776 - 📤 etat/env → 0
+2025-05-12 10:05:24,781 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:05:24,781 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:05:24,781 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:05:24,781 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:05:24,781 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:05:24,782 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:06:16,032 - 📤 etat/hote → 0
+2025-05-12 10:06:16,032 - 📤 etat/service → 0
+2025-05-12 10:06:16,033 - 📤 etat/env → 0
+2025-05-12 10:07:07,238 - 📤 etat/hote → 0
+2025-05-12 10:07:07,239 - 📤 etat/service → 0
+2025-05-12 10:07:07,239 - 📤 etat/env → 0
+2025-05-12 10:07:07,243 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:07:07,243 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:07:07,244 - /usr/lib/python3.11/tracemalloc.py:505: size=10.9 KiB, count=200, average=56 B
+2025-05-12 10:07:07,244 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:07:07,244 - /usr/lib/python3.11/tracemalloc.py:498: size=9600 B, count=200, average=48 B
+2025-05-12 10:07:07,244 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:07:58,467 - 📤 etat/hote → 0
+2025-05-12 10:07:58,468 - 📤 etat/service → 0
+2025-05-12 10:07:58,468 - 📤 etat/env → 0
+2025-05-12 10:08:49,712 - 📤 etat/hote → 0
+2025-05-12 10:08:49,713 - 📤 etat/service → 0
+2025-05-12 10:08:49,713 - 📤 etat/env → 0
+2025-05-12 10:08:49,718 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:08:49,718 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:08:49,718 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:08:49,718 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:08:49,719 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:08:49,719 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:09:40,968 - 📤 etat/hote → 0
+2025-05-12 10:09:40,969 - 📤 etat/service → 0
+2025-05-12 10:09:40,969 - 📤 etat/env → 0
+2025-05-12 10:10:32,294 - 📤 etat/hote → 0
+2025-05-12 10:10:32,295 - 📤 etat/service → 0
+2025-05-12 10:10:32,296 - 📤 etat/env → 0
+2025-05-12 10:10:32,300 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:10:32,300 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:10:32,301 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:10:32,301 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:10:32,301 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:10:32,301 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:11:23,583 - 📤 etat/hote → 0
+2025-05-12 10:11:23,584 - 📤 etat/service → 0
+2025-05-12 10:11:23,584 - 📤 etat/env → 0
+2025-05-12 10:12:14,820 - 📤 etat/hote → 0
+2025-05-12 10:12:14,823 - 📤 etat/service → 0
+2025-05-12 10:12:14,825 - 📤 etat/env → 0
+2025-05-12 10:12:14,831 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:12:14,832 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:12:14,832 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:12:14,832 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:12:14,833 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:12:14,833 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:13:06,176 - 📤 etat/hote → 0
+2025-05-12 10:13:06,176 - 📤 etat/service → 0
+2025-05-12 10:13:06,176 - 📤 etat/env → 0
+2025-05-12 10:13:57,360 - 📤 etat/hote → 0
+2025-05-12 10:13:57,361 - 📤 etat/service → 0
+2025-05-12 10:13:57,361 - 📤 etat/env → 0
+2025-05-12 10:13:57,366 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:13:57,366 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:13:57,366 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:13:57,366 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:13:57,366 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:13:57,366 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:14:48,631 - 📤 etat/hote → 0
+2025-05-12 10:14:48,632 - 📤 etat/service → 0
+2025-05-12 10:14:48,634 - 📤 etat/env → 0
+2025-05-12 10:15:39,877 - 📤 etat/hote → 0
+2025-05-12 10:15:39,878 - 📤 etat/service → 0
+2025-05-12 10:15:39,878 - 📤 etat/env → 0
+2025-05-12 10:15:39,883 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:15:39,883 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:15:39,883 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:15:39,883 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:15:39,884 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:15:39,884 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:16:31,201 - 📤 etat/hote → 0
+2025-05-12 10:16:31,201 - 📤 etat/service → 0
+2025-05-12 10:16:31,202 - 📤 etat/env → 0
+2025-05-12 10:17:22,445 - 📤 etat/hote → 0
+2025-05-12 10:17:22,446 - 📤 etat/service → 0
+2025-05-12 10:17:22,447 - 📤 etat/env → 0
+2025-05-12 10:17:22,451 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:17:22,451 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:17:22,451 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:17:22,452 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:17:22,452 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:17:22,452 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:18:13,666 - 📤 etat/hote → 0
+2025-05-12 10:18:13,666 - 📤 etat/service → 0
+2025-05-12 10:18:13,667 - 📤 etat/env → 0
+2025-05-12 10:19:04,784 - 📤 etat/hote → 0
+2025-05-12 10:19:04,784 - 📤 etat/service → 0
+2025-05-12 10:19:04,785 - 📤 etat/env → 0
+2025-05-12 10:19:04,790 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:19:04,790 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:19:04,790 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:19:04,790 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:19:04,790 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:19:04,790 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:19:55,996 - 📤 etat/hote → 0
+2025-05-12 10:19:55,997 - 📤 etat/service → 0
+2025-05-12 10:19:55,997 - 📤 etat/env → 0
+2025-05-12 10:20:47,396 - 📤 etat/hote → 0
+2025-05-12 10:20:47,398 - 📤 etat/service → 0
+2025-05-12 10:20:47,399 - 📤 etat/env → 0
+2025-05-12 10:20:47,403 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:20:47,404 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:20:47,404 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:20:47,404 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:20:47,404 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:20:47,404 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:21:38,574 - 📤 etat/hote → 0
+2025-05-12 10:21:38,575 - 📤 etat/service → 0
+2025-05-12 10:21:38,575 - 📤 etat/env → 0
+2025-05-12 10:22:29,735 - 📤 etat/hote → 0
+2025-05-12 10:22:29,736 - 📤 etat/service → 0
+2025-05-12 10:22:29,737 - 📤 etat/env → 0
+2025-05-12 10:22:29,741 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:22:29,741 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:22:29,742 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:22:29,742 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:22:29,742 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:22:29,742 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:23:20,991 - 📤 etat/hote → 0
+2025-05-12 10:23:20,991 - 📤 etat/service → 0
+2025-05-12 10:23:20,992 - 📤 etat/env → 0
+2025-05-12 10:24:12,091 - 📤 etat/hote → 0
+2025-05-12 10:24:12,092 - 📤 etat/service → 0
+2025-05-12 10:24:12,093 - 📤 etat/env → 0
+2025-05-12 10:24:12,097 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:24:12,097 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:24:12,097 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:24:12,098 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:24:12,098 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:24:12,098 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:25:03,174 - 📤 etat/hote → 0
+2025-05-12 10:25:03,175 - 📤 etat/service → 0
+2025-05-12 10:25:03,175 - 📤 etat/env → 0
+2025-05-12 10:25:54,371 - 📤 etat/hote → 0
+2025-05-12 10:25:54,372 - 📤 etat/service → 0
+2025-05-12 10:25:54,372 - 📤 etat/env → 0
+2025-05-12 10:25:54,376 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:25:54,376 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:25:54,377 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:25:54,377 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:25:54,377 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:25:54,377 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:26:45,592 - 📤 etat/hote → 0
+2025-05-12 10:26:45,593 - 📤 etat/service → 0
+2025-05-12 10:26:45,593 - 📤 etat/env → 0
+2025-05-12 10:27:36,703 - 📤 etat/hote → 0
+2025-05-12 10:27:36,704 - 📤 etat/service → 0
+2025-05-12 10:27:36,704 - 📤 etat/env → 0
+2025-05-12 10:27:36,708 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:27:36,708 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:27:36,708 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:27:36,709 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:27:36,709 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:27:36,709 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:28:27,851 - 📤 etat/hote → 0
+2025-05-12 10:28:27,851 - 📤 etat/service → 0
+2025-05-12 10:28:27,852 - 📤 etat/env → 0
+2025-05-12 10:29:19,189 - 📤 etat/hote → 0
+2025-05-12 10:29:19,190 - 📤 etat/service → 0
+2025-05-12 10:29:19,190 - 📤 etat/env → 0
+2025-05-12 10:29:19,194 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:29:19,195 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:29:19,195 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:29:19,195 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:29:19,195 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:29:19,195 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:30:10,473 - 📤 etat/hote → 0
+2025-05-12 10:30:10,474 - 📤 etat/service → 0
+2025-05-12 10:30:10,474 - 📤 etat/env → 0
+2025-05-12 10:31:01,794 - 📤 etat/hote → 0
+2025-05-12 10:31:01,795 - 📤 etat/service → 0
+2025-05-12 10:31:01,796 - 📤 etat/env → 0
+2025-05-12 10:31:01,801 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:31:01,801 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:31:01,801 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:31:01,802 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:31:01,802 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:31:01,802 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:31:52,979 - 📤 etat/hote → 0
+2025-05-12 10:31:52,980 - 📤 etat/service → 0
+2025-05-12 10:31:52,981 - 📤 etat/env → 0
+2025-05-12 10:32:44,126 - 📤 etat/hote → 0
+2025-05-12 10:32:44,127 - 📤 etat/service → 0
+2025-05-12 10:32:44,128 - 📤 etat/env → 0
+2025-05-12 10:32:44,132 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:32:44,132 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:32:44,132 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:32:44,133 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:32:44,133 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:32:44,133 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:33:35,284 - 📤 etat/hote → 0
+2025-05-12 10:33:35,284 - 📤 etat/service → 0
+2025-05-12 10:33:35,285 - 📤 etat/env → 0
+2025-05-12 10:34:26,485 - 📤 etat/hote → 0
+2025-05-12 10:34:26,486 - 📤 etat/service → 0
+2025-05-12 10:34:26,487 - 📤 etat/env → 0
+2025-05-12 10:34:26,492 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:34:26,492 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:34:26,492 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:34:26,492 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:34:26,493 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:34:26,493 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:35:17,736 - 📤 etat/hote → 0
+2025-05-12 10:35:17,736 - 📤 etat/service → 0
+2025-05-12 10:35:17,736 - 📤 etat/env → 0
+2025-05-12 10:36:08,781 - 📤 etat/hote → 0
+2025-05-12 10:36:08,782 - 📤 etat/service → 0
+2025-05-12 10:36:08,782 - 📤 etat/env → 0
+2025-05-12 10:36:08,786 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:36:08,786 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:36:08,786 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:36:08,786 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:36:08,786 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:36:08,786 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:37:00,044 - 📤 etat/hote → 0
+2025-05-12 10:37:00,045 - 📤 etat/service → 0
+2025-05-12 10:37:00,045 - 📤 etat/env → 0
+2025-05-12 10:37:51,122 - 📤 etat/hote → 0
+2025-05-12 10:37:51,123 - 📤 etat/service → 0
+2025-05-12 10:37:51,124 - 📤 etat/env → 0
+2025-05-12 10:37:51,128 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:37:51,128 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:37:51,128 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:37:51,129 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:37:51,129 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:37:51,129 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:38:42,196 - 📤 etat/hote → 0
+2025-05-12 10:38:42,196 - 📤 etat/service → 0
+2025-05-12 10:38:42,197 - 📤 etat/env → 0
+2025-05-12 10:39:33,351 - 📤 etat/hote → 0
+2025-05-12 10:39:33,352 - 📤 etat/service → 0
+2025-05-12 10:39:33,352 - 📤 etat/env → 0
+2025-05-12 10:39:33,356 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:39:33,356 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:39:33,356 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:39:33,357 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:39:33,357 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:39:33,357 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:40:24,480 - 📤 etat/hote → 0
+2025-05-12 10:40:24,480 - 📤 etat/service → 0
+2025-05-12 10:40:24,481 - 📤 etat/env → 0
+2025-05-12 10:41:15,827 - 📤 etat/hote → 0
+2025-05-12 10:41:15,828 - 📤 etat/service → 0
+2025-05-12 10:41:15,829 - 📤 etat/env → 0
+2025-05-12 10:41:15,838 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:41:15,839 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:41:15,839 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:41:15,839 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:41:15,840 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:41:15,840 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:42:06,983 - 📤 etat/hote → 0
+2025-05-12 10:42:06,984 - 📤 etat/service → 0
+2025-05-12 10:42:06,985 - 📤 etat/env → 0
+2025-05-12 10:42:58,186 - 📤 etat/hote → 0
+2025-05-12 10:42:58,186 - 📤 etat/service → 0
+2025-05-12 10:42:58,187 - 📤 etat/env → 0
+2025-05-12 10:42:58,191 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:42:58,192 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:42:58,192 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:42:58,192 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:42:58,192 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:42:58,192 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:43:49,397 - 📤 etat/hote → 0
+2025-05-12 10:43:49,398 - 📤 etat/service → 0
+2025-05-12 10:43:49,398 - 📤 etat/env → 0
+2025-05-12 10:44:40,571 - 📤 etat/hote → 0
+2025-05-12 10:44:40,572 - 📤 etat/service → 0
+2025-05-12 10:44:40,572 - 📤 etat/env → 0
+2025-05-12 10:44:40,577 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:44:40,577 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:44:40,577 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:44:40,577 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:44:40,578 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:44:40,578 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:45:31,708 - 📤 etat/hote → 0
+2025-05-12 10:45:31,708 - 📤 etat/service → 0
+2025-05-12 10:45:31,709 - 📤 etat/env → 0
+2025-05-12 10:46:22,916 - 📤 etat/hote → 0
+2025-05-12 10:46:22,917 - 📤 etat/service → 0
+2025-05-12 10:46:22,918 - 📤 etat/env → 0
+2025-05-12 10:46:22,922 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:46:22,922 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:46:22,923 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:46:22,923 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:46:22,923 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:46:22,923 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:47:14,169 - 📤 etat/hote → 0
+2025-05-12 10:47:14,170 - 📤 etat/service → 0
+2025-05-12 10:47:14,170 - 📤 etat/env → 0
+2025-05-12 10:48:05,350 - 📤 etat/hote → 0
+2025-05-12 10:48:05,351 - 📤 etat/service → 0
+2025-05-12 10:48:05,351 - 📤 etat/env → 0
+2025-05-12 10:48:05,356 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:48:05,356 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:48:05,356 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:48:05,357 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:48:05,357 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:48:05,357 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:48:56,578 - 📤 etat/hote → 0
+2025-05-12 10:48:56,579 - 📤 etat/service → 0
+2025-05-12 10:48:56,580 - 📤 etat/env → 0
+2025-05-12 10:49:47,949 - 📤 etat/hote → 0
+2025-05-12 10:49:47,951 - 📤 etat/service → 0
+2025-05-12 10:49:47,952 - 📤 etat/env → 0
+2025-05-12 10:49:47,959 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:49:47,960 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:49:47,960 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:49:47,961 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:49:47,961 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:49:47,961 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:50:39,207 - 📤 etat/hote → 0
+2025-05-12 10:50:39,208 - 📤 etat/service → 0
+2025-05-12 10:50:39,209 - 📤 etat/env → 0
+2025-05-12 10:51:30,315 - 📤 etat/hote → 0
+2025-05-12 10:51:30,315 - 📤 etat/service → 0
+2025-05-12 10:51:30,316 - 📤 etat/env → 0
+2025-05-12 10:51:30,320 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:51:30,321 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:51:30,321 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:51:30,321 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:51:30,321 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:51:30,322 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:52:21,432 - 📤 etat/hote → 0
+2025-05-12 10:52:21,432 - 📤 etat/service → 0
+2025-05-12 10:52:21,433 - 📤 etat/env → 0
+2025-05-12 10:53:12,488 - 📤 etat/hote → 0
+2025-05-12 10:53:12,489 - 📤 etat/service → 0
+2025-05-12 10:53:12,490 - 📤 etat/env → 0
+2025-05-12 10:53:12,494 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:53:12,494 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:53:12,494 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:53:12,494 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:53:12,495 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:53:12,495 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:54:03,562 - 📤 etat/hote → 0
+2025-05-12 10:54:03,563 - 📤 etat/service → 0
+2025-05-12 10:54:03,564 - 📤 etat/env → 0
+2025-05-12 10:54:54,692 - 📤 etat/hote → 0
+2025-05-12 10:54:54,693 - 📤 etat/service → 0
+2025-05-12 10:54:54,693 - 📤 etat/env → 0
+2025-05-12 10:54:54,697 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:54:54,698 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:54:54,698 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:54:54,698 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:54:54,698 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:54:54,698 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:55:45,971 - 📤 etat/hote → 0
+2025-05-12 10:55:45,972 - 📤 etat/service → 0
+2025-05-12 10:55:45,972 - 📤 etat/env → 0
+2025-05-12 10:56:37,161 - 📤 etat/hote → 0
+2025-05-12 10:56:37,161 - 📤 etat/service → 0
+2025-05-12 10:56:37,162 - 📤 etat/env → 0
+2025-05-12 10:56:37,166 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:56:37,166 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:56:37,166 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=201, average=56 B
+2025-05-12 10:56:37,166 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:56:37,166 - /usr/lib/python3.11/tracemalloc.py:498: size=9648 B, count=201, average=48 B
+2025-05-12 10:56:37,166 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:57:28,303 - 📤 etat/hote → 0
+2025-05-12 10:57:28,304 - 📤 etat/service → 0
+2025-05-12 10:57:28,305 - 📤 etat/env → 0
+2025-05-12 10:58:19,432 - 📤 etat/hote → 0
+2025-05-12 10:58:19,433 - 📤 etat/service → 0
+2025-05-12 10:58:19,433 - 📤 etat/env → 0
+2025-05-12 10:58:19,437 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 10:58:19,437 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 10:58:19,438 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 10:58:19,438 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 10:58:19,438 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 10:58:19,438 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 10:59:10,653 - 📤 etat/hote → 0
+2025-05-12 10:59:10,653 - 📤 etat/service → 0
+2025-05-12 10:59:10,654 - 📤 etat/env → 0
+2025-05-12 11:00:01,844 - 📤 etat/hote → 0
+2025-05-12 11:00:01,845 - 📤 etat/service → 0
+2025-05-12 11:00:01,845 - 📤 etat/env → 0
+2025-05-12 11:00:01,849 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:00:01,849 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:00:01,849 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:00:01,850 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:00:01,850 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:00:01,850 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:00:53,077 - 📤 etat/hote → 0
+2025-05-12 11:00:53,078 - 📤 etat/service → 0
+2025-05-12 11:00:53,078 - 📤 etat/env → 0
+2025-05-12 11:01:44,145 - 📤 etat/hote → 0
+2025-05-12 11:01:44,145 - 📤 etat/service → 0
+2025-05-12 11:01:44,146 - 📤 etat/env → 0
+2025-05-12 11:01:44,150 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:01:44,150 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:01:44,150 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:01:44,150 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:01:44,151 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:01:44,151 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:02:35,353 - 📤 etat/hote → 0
+2025-05-12 11:02:35,353 - 📤 etat/service → 0
+2025-05-12 11:02:35,354 - 📤 etat/env → 0
+2025-05-12 11:03:26,611 - 📤 etat/hote → 0
+2025-05-12 11:03:26,612 - 📤 etat/service → 0
+2025-05-12 11:03:26,612 - 📤 etat/env → 0
+2025-05-12 11:03:26,616 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:03:26,616 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:03:26,616 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:03:26,616 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:03:26,617 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:03:26,617 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:04:17,773 - 📤 etat/hote → 0
+2025-05-12 11:04:17,773 - 📤 etat/service → 0
+2025-05-12 11:04:17,774 - 📤 etat/env → 0
+2025-05-12 11:05:08,900 - 📤 etat/hote → 0
+2025-05-12 11:05:08,901 - 📤 etat/service → 0
+2025-05-12 11:05:08,902 - 📤 etat/env → 0
+2025-05-12 11:05:08,906 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:05:08,907 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:05:08,907 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:05:08,907 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:05:08,907 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:05:08,907 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:06:00,143 - 📤 etat/hote → 0
+2025-05-12 11:06:00,143 - 📤 etat/service → 0
+2025-05-12 11:06:00,144 - 📤 etat/env → 0
+2025-05-12 11:06:51,378 - 📤 etat/hote → 0
+2025-05-12 11:06:51,379 - 📤 etat/service → 0
+2025-05-12 11:06:51,380 - 📤 etat/env → 0
+2025-05-12 11:06:51,384 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:06:51,384 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:06:51,384 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:06:51,384 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:06:51,385 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:06:51,385 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:07:42,585 - 📤 etat/hote → 0
+2025-05-12 11:07:42,586 - 📤 etat/service → 0
+2025-05-12 11:07:42,586 - 📤 etat/env → 0
+2025-05-12 11:08:33,786 - 📤 etat/hote → 0
+2025-05-12 11:08:33,787 - 📤 etat/service → 0
+2025-05-12 11:08:33,787 - 📤 etat/env → 0
+2025-05-12 11:08:33,791 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:08:33,792 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:08:33,792 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:08:33,792 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:08:33,792 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:08:33,792 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:09:25,015 - 📤 etat/hote → 0
+2025-05-12 11:09:25,015 - 📤 etat/service → 0
+2025-05-12 11:09:25,016 - 📤 etat/env → 0
+2025-05-12 11:10:16,260 - 📤 etat/hote → 0
+2025-05-12 11:10:16,261 - 📤 etat/service → 0
+2025-05-12 11:10:16,262 - 📤 etat/env → 0
+2025-05-12 11:10:16,267 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:10:16,267 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:10:16,268 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:10:16,268 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:10:16,268 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:10:16,268 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:11:07,539 - 📤 etat/hote → 0
+2025-05-12 11:11:07,540 - 📤 etat/service → 0
+2025-05-12 11:11:07,541 - 📤 etat/env → 0
+2025-05-12 11:11:58,789 - 📤 etat/hote → 0
+2025-05-12 11:11:58,790 - 📤 etat/service → 0
+2025-05-12 11:11:58,790 - 📤 etat/env → 0
+2025-05-12 11:11:58,796 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:11:58,797 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:11:58,797 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:11:58,797 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:11:58,797 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:11:58,797 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:12:50,084 - 📤 etat/hote → 0
+2025-05-12 11:12:50,085 - 📤 etat/service → 0
+2025-05-12 11:12:50,085 - 📤 etat/env → 0
+2025-05-12 11:13:17,463 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:13:17,684 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:13:17,885 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:13:18,091 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:13:26,532 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:13:26,802 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:13:27,002 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:13:27,212 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:13:35,589 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:13:35,847 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:13:36,058 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:13:36,254 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:13:41,212 - 📤 etat/hote → 0
+2025-05-12 11:13:41,213 - 📤 etat/service → 0
+2025-05-12 11:13:41,213 - 📤 etat/env → 0
+2025-05-12 11:13:41,218 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:13:41,218 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:13:41,218 - /usr/lib/python3.11/tracemalloc.py:505: size=11.0 KiB, count=202, average=56 B
+2025-05-12 11:13:41,218 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:13:41,218 - /usr/lib/python3.11/tracemalloc.py:498: size=9696 B, count=202, average=48 B
+2025-05-12 11:13:41,218 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:13:44,643 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:13:44,901 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:13:45,100 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:13:45,296 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:13:53,749 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:13:53,948 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:13:54,149 - 📩 Nouvelle valeure sur le topic env/humidite: 50.0
+2025-05-12 11:13:54,346 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:14:02,774 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:14:03,017 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:14:03,236 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:14:03,438 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:14:11,840 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:14:12,197 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:14:12,450 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:14:12,711 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:14:20,917 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:14:21,158 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:14:21,405 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:14:21,658 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:14:29,981 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:14:30,240 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:14:30,441 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:14:30,670 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:14:32,521 - 📤 etat/hote → 0
+2025-05-12 11:14:32,522 - 📤 etat/service → 0
+2025-05-12 11:14:32,522 - 📤 etat/env → 0
+2025-05-12 11:14:39,051 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:14:39,254 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:14:39,454 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:14:39,653 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:14:48,141 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:14:48,389 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:14:48,590 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:14:48,790 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:14:57,211 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:14:57,414 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:14:57,613 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:14:57,811 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:15:06,281 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:15:06,480 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:15:06,678 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:15:06,882 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:15:15,372 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:15:15,608 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:15:15,808 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:15:16,005 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:15:23,674 - 📤 etat/hote → 0
+2025-05-12 11:15:23,675 - 📤 etat/service → 0
+2025-05-12 11:15:23,675 - 📤 etat/env → 0
+2025-05-12 11:15:23,680 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:15:23,681 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:15:23,681 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=205, average=56 B
+2025-05-12 11:15:23,681 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:15:23,681 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:15:23,681 - /usr/lib/python3.11/tracemalloc.py:498: size=9840 B, count=205, average=48 B
+2025-05-12 11:15:24,449 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:15:24,701 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:15:24,919 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:15:25,142 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:15:33,536 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:15:33,789 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:15:34,053 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:15:34,251 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:15:42,643 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:15:42,888 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:15:43,086 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:15:43,286 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:15:51,709 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:15:51,967 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:15:52,165 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:15:52,362 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:16:00,803 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:16:01,067 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:16:01,292 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:16:01,506 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:16:09,896 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:16:10,140 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:16:10,341 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:16:10,542 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:16:14,899 - 📤 etat/hote → 0
+2025-05-12 11:16:14,900 - 📤 etat/service → 0
+2025-05-12 11:16:14,901 - 📤 etat/env → 0
+2025-05-12 11:16:18,978 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:16:19,215 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:16:19,431 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:16:19,667 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:16:28,065 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:16:28,320 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:16:28,519 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:16:28,718 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:16:37,176 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:16:37,444 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:16:37,645 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:16:37,867 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:16:46,252 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:16:46,494 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:16:46,719 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:16:46,941 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:16:55,344 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:16:55,603 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:16:55,812 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:16:56,051 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:17:04,448 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:17:04,652 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:17:04,855 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:17:05,053 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:17:06,158 - 📤 etat/hote → 0
+2025-05-12 11:17:06,158 - 📤 etat/service → 0
+2025-05-12 11:17:06,158 - 📤 etat/env → 0
+2025-05-12 11:17:06,163 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:17:06,163 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:17:06,163 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=205, average=56 B
+2025-05-12 11:17:06,163 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:17:06,163 - /usr/lib/python3.11/tracemalloc.py:498: size=9840 B, count=205, average=48 B
+2025-05-12 11:17:06,163 - /usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+2025-05-12 11:17:13,543 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:17:13,764 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:17:13,995 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:17:14,192 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:17:22,643 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:17:22,845 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:17:23,055 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:17:23,269 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:17:31,755 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:17:31,965 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:17:32,166 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:17:32,368 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:17:40,856 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:17:41,057 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:17:41,253 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:17:41,453 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:17:49,960 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:17:50,161 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:17:50,361 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:17:50,576 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:17:57,240 - 📤 etat/hote → 0
+2025-05-12 11:17:57,241 - 📤 etat/service → 0
+2025-05-12 11:17:57,241 - 📤 etat/env → 0
+2025-05-12 11:17:59,096 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:17:59,305 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:17:59,525 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:17:59,722 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:18:08,171 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:18:08,377 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:18:08,576 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:18:08,784 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:18:17,280 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:18:17,558 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:18:17,859 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:18:18,060 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:18:26,398 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:18:26,655 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:18:26,860 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:18:27,060 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:18:35,498 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:18:35,763 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:18:35,971 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:18:36,177 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:18:44,607 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:18:44,890 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:18:45,092 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:18:45,298 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:18:48,553 - 📤 etat/hote → 0
+2025-05-12 11:18:48,554 - 📤 etat/service → 0
+2025-05-12 11:18:48,554 - 📤 etat/env → 0
+2025-05-12 11:18:48,560 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:18:48,560 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:18:48,560 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=206, average=56 B
+2025-05-12 11:18:48,560 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:18:48,560 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:18:48,561 - /usr/lib/python3.11/tracemalloc.py:498: size=9888 B, count=206, average=48 B
+2025-05-12 11:18:53,743 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:18:53,986 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:18:54,196 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:18:54,420 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:19:02,839 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:19:03,088 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:19:03,297 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:19:03,502 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:19:11,958 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:19:12,205 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:19:12,412 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:19:12,619 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:19:21,092 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:19:21,348 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:19:21,556 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:19:21,779 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:19:30,196 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:19:30,451 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:19:30,660 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:19:30,870 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:19:39,314 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:19:39,566 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:19:39,793 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:19:39,926 - 📤 etat/hote → 0
+2025-05-12 11:19:39,926 - 📤 etat/service → 0
+2025-05-12 11:19:39,927 - 📤 etat/env → 0
+2025-05-12 11:19:40,046 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:19:48,440 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:19:48,698 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:19:48,905 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:19:49,107 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:19:57,565 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:19:57,837 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:19:58,049 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:19:58,257 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:20:06,687 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:20:06,977 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:20:07,187 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:20:07,397 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:20:15,823 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:20:16,069 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:20:16,289 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:20:16,492 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:20:24,962 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:20:25,217 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:20:25,425 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:20:25,628 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:20:31,259 - 📤 etat/hote → 0
+2025-05-12 11:20:31,260 - 📤 etat/service → 0
+2025-05-12 11:20:31,260 - 📤 etat/env → 0
+2025-05-12 11:20:31,265 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:20:31,265 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:20:31,265 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=206, average=56 B
+2025-05-12 11:20:31,266 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:20:31,266 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:20:31,266 - /usr/lib/python3.11/tracemalloc.py:498: size=9888 B, count=206, average=48 B
+2025-05-12 11:20:34,084 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:20:34,334 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:20:34,559 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:20:34,766 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:20:43,217 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:20:43,465 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:20:43,689 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:20:43,973 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:20:52,354 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:20:52,592 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:20:52,821 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:20:53,031 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:21:01,486 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:21:01,723 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:21:01,941 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:21:02,183 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:21:10,631 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:21:10,884 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:21:11,092 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:21:11,296 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:21:19,763 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:21:20,011 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:21:20,217 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:21:20,419 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:21:22,535 - 📤 etat/hote → 0
+2025-05-12 11:21:22,536 - 📤 etat/service → 0
+2025-05-12 11:21:22,537 - 📤 etat/env → 0
+2025-05-12 11:21:28,915 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:21:29,162 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:21:29,391 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:21:29,620 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:21:38,094 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:21:38,359 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:21:38,567 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:21:38,776 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:21:47,197 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:21:47,453 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:21:47,660 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:21:47,864 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:21:56,343 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:21:56,621 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:21:56,834 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:21:57,045 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:22:05,489 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:22:05,746 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:22:05,983 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:22:06,207 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:22:13,953 - 📤 etat/hote → 0
+2025-05-12 11:22:13,954 - 📤 etat/service → 0
+2025-05-12 11:22:13,954 - 📤 etat/env → 0
+2025-05-12 11:22:13,960 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:22:13,960 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:22:13,960 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=204, average=56 B
+2025-05-12 11:22:13,960 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:22:13,960 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:22:13,961 - /usr/lib/python3.11/tracemalloc.py:498: size=9792 B, count=204, average=48 B
+2025-05-12 11:22:14,638 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:22:14,903 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:22:15,132 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:22:15,340 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:22:23,790 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:22:24,051 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:22:24,335 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:22:24,551 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:22:32,947 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:22:33,209 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:22:33,435 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:22:33,662 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:22:42,107 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:22:42,378 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:22:42,616 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:22:42,849 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:22:51,244 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:22:51,496 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:22:51,716 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:22:51,961 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:00,763 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:23:01,036 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:23:01,243 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:23:01,447 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:05,298 - 📤 etat/hote → 0
+2025-05-12 11:23:05,299 - 📤 etat/service → 0
+2025-05-12 11:23:05,299 - 📤 etat/env → 0
+2025-05-12 11:23:09,559 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:23:09,819 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:23:10,039 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:23:10,251 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:18,710 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:23:18,966 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:23:19,173 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:23:19,380 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:27,882 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:23:28,140 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:23:28,347 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:23:28,552 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:37,035 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:23:37,276 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:23:37,478 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:23:37,680 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:46,202 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:23:46,448 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:23:46,654 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:23:46,861 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:55,371 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:23:55,616 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:23:55,821 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:23:56,028 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:23:56,579 - 📤 etat/hote → 0
+2025-05-12 11:23:56,580 - 📤 etat/service → 0
+2025-05-12 11:23:56,580 - 📤 etat/env → 0
+2025-05-12 11:23:56,585 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:23:56,586 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:23:56,586 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=12.2 KiB, count=192, average=65 B
+2025-05-12 11:23:56,586 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=205, average=56 B
+2025-05-12 11:23:56,586 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:23:56,586 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:62: size=10.1 KiB, count=96, average=108 B
+2025-05-12 11:24:04,536 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:24:04,811 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:24:05,022 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:24:05,228 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:24:13,701 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:24:13,993 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:24:14,205 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:24:14,430 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:24:22,870 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:24:23,120 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:24:23,355 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:24:23,571 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:24:32,039 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:24:32,304 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:24:32,531 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:24:32,735 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:24:41,219 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:24:41,466 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:24:41,680 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:24:41,903 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:24:47,872 - 📤 etat/hote → 0
+2025-05-12 11:24:47,873 - 📤 etat/service → 0
+2025-05-12 11:24:47,873 - 📤 etat/env → 0
+2025-05-12 11:24:50,403 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:24:50,658 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:24:50,862 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:24:51,068 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:24:59,564 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:24:59,832 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:25:00,057 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:25:00,274 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:25:08,742 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:25:08,990 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:25:09,197 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:25:09,402 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:25:17,920 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:25:18,154 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:25:18,379 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:25:18,595 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:25:27,104 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:25:27,365 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:25:27,572 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:25:27,782 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:25:36,299 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:25:36,565 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:25:36,769 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:25:36,978 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:25:39,304 - 📤 etat/hote → 0
+2025-05-12 11:25:39,305 - 📤 etat/service → 0
+2025-05-12 11:25:39,306 - 📤 etat/env → 0
+2025-05-12 11:25:39,311 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:25:39,311 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:25:39,311 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=204, average=56 B
+2025-05-12 11:25:39,311 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:25:39,311 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:25:39,311 - /usr/lib/python3.11/tracemalloc.py:498: size=9792 B, count=204, average=48 B
+2025-05-12 11:25:45,485 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:25:45,730 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:25:45,936 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:25:46,143 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:25:54,653 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:25:54,921 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:25:55,132 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:25:55,340 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:26:03,858 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:26:04,144 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:26:04,367 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:26:04,581 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:26:13,038 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:26:13,277 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:26:13,488 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:26:13,710 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:26:22,217 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:26:22,455 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:26:22,663 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:26:22,873 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:26:30,620 - 📤 etat/hote → 0
+2025-05-12 11:26:30,620 - 📤 etat/service → 0
+2025-05-12 11:26:30,621 - 📤 etat/env → 0
+2025-05-12 11:26:31,411 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:26:31,656 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:26:31,865 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:26:32,099 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:26:40,609 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:26:40,870 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:26:41,119 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:26:41,325 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:26:49,806 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:26:50,064 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:26:50,281 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:26:50,493 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:26:58,992 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:26:59,232 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:26:59,485 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:26:59,697 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:27:08,196 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:27:08,461 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:27:08,670 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:27:08,909 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:27:17,397 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:27:17,652 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:27:17,870 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:27:18,090 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:27:21,986 - 📤 etat/hote → 0
+2025-05-12 11:27:21,987 - 📤 etat/service → 0
+2025-05-12 11:27:21,988 - 📤 etat/env → 0
+2025-05-12 11:27:21,993 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:27:21,993 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:27:21,994 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=206, average=56 B
+2025-05-12 11:27:21,994 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:27:21,994 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:27:21,994 - /usr/lib/python3.11/tracemalloc.py:498: size=9888 B, count=206, average=48 B
+2025-05-12 11:27:26,593 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:27:26,815 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:27:27,024 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:27:27,230 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:27:35,842 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:27:36,092 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:27:36,348 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:27:36,605 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:27:44,991 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:27:45,243 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:27:45,460 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:27:45,667 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:27:54,199 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:27:54,752 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:27:55,048 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:27:55,291 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:28:03,403 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:28:03,695 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:28:03,911 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:28:04,131 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:28:12,615 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:28:12,863 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:28:13,082 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:28:13,301 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:28:13,422 - 📤 etat/hote → 0
+2025-05-12 11:28:13,423 - 📤 etat/service → 0
+2025-05-12 11:28:13,424 - 📤 etat/env → 0
+2025-05-12 11:28:21,816 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:28:22,075 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:28:22,282 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:28:22,485 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:28:31,032 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:28:31,270 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:28:31,499 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:28:31,737 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:28:40,242 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:28:40,504 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:28:40,735 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:28:40,946 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:28:49,454 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:28:49,707 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:28:49,913 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:28:50,123 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:28:58,676 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:28:58,999 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:28:59,205 - 📩 Nouvelle valeure sur le topic env/humidite: 49.0
+2025-05-12 11:28:59,429 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:29:04,746 - 📤 etat/hote → 0
+2025-05-12 11:29:04,747 - 📤 etat/service → 0
+2025-05-12 11:29:04,748 - 📤 etat/env → 0
+2025-05-12 11:29:04,753 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:29:04,753 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:29:04,753 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=206, average=56 B
+2025-05-12 11:29:04,753 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:29:04,753 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:29:04,753 - /usr/lib/python3.11/tracemalloc.py:498: size=9888 B, count=206, average=48 B
+2025-05-12 11:29:07,889 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:29:08,150 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:29:08,369 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:29:08,584 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:29:17,108 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:29:17,353 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:29:17,565 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:29:17,767 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:29:26,331 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:29:26,575 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:29:26,779 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:29:26,986 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:29:35,552 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:29:35,770 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:29:35,983 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:29:36,188 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:29:44,784 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:29:45,047 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:29:45,267 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:29:45,471 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:29:54,003 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:29:54,277 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:29:54,488 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:29:54,694 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:29:56,096 - 📤 etat/hote → 0
+2025-05-12 11:29:56,097 - 📤 etat/service → 0
+2025-05-12 11:29:56,097 - 📤 etat/env → 0
+2025-05-12 11:30:03,227 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:30:03,493 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:30:03,697 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:30:03,897 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:30:12,449 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:30:12,698 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:30:12,917 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:30:13,151 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:30:21,692 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:30:21,962 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:30:22,172 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:30:22,375 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:30:30,910 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:30:31,137 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:30:31,343 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:30:31,551 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:30:40,134 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:30:40,377 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:30:40,596 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:30:40,810 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:30:47,390 - 📤 etat/hote → 0
+2025-05-12 11:30:47,390 - 📤 etat/service → 0
+2025-05-12 11:30:47,391 - 📤 etat/env → 0
+2025-05-12 11:30:47,397 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:30:47,397 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:30:47,397 - /usr/lib/python3.11/tracemalloc.py:505: size=11.2 KiB, count=205, average=56 B
+2025-05-12 11:30:47,398 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:30:47,398 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:30:47,398 - /usr/lib/python3.11/tracemalloc.py:498: size=9840 B, count=205, average=48 B
+2025-05-12 11:30:49,381 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:30:49,637 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:30:49,862 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:30:50,070 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:30:58,644 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:30:58,995 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:30:59,199 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:30:59,416 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:31:07,846 - 📩 Nouvelle valeure sur le topic env/eau: 3632.0
+2025-05-12 11:31:08,097 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:31:08,326 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:31:08,554 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:31:17,097 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:31:17,336 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:31:17,565 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:31:17,783 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:31:26,334 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:31:26,585 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:31:26,923 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:31:27,166 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:31:35,579 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:31:36,015 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:31:36,296 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:31:36,614 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:31:38,642 - 📤 etat/hote → 0
+2025-05-12 11:31:38,642 - 📤 etat/service → 0
+2025-05-12 11:31:38,642 - 📤 etat/env → 0
+2025-05-12 11:31:44,849 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:31:45,102 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:31:45,314 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:31:45,514 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:31:54,084 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:31:54,378 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:31:54,607 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:31:54,860 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:32:03,336 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:32:03,844 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:32:04,067 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:32:04,287 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:32:12,594 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:32:12,835 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:32:13,046 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:32:13,254 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:32:21,843 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:32:22,090 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:32:22,296 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:32:22,503 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:32:30,159 - 📤 etat/hote → 0
+2025-05-12 11:32:30,160 - 📤 etat/service → 0
+2025-05-12 11:32:30,161 - 📤 etat/env → 0
+2025-05-12 11:32:30,167 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:32:30,167 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:32:30,167 - /usr/lib/python3.11/tracemalloc.py:505: size=11.4 KiB, count=208, average=56 B
+2025-05-12 11:32:30,167 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:32:30,168 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:32:30,168 - /usr/lib/python3.11/tracemalloc.py:498: size=9984 B, count=208, average=48 B
+2025-05-12 11:32:31,094 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:32:31,347 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:32:31,552 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:32:31,780 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:32:40,357 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:32:40,567 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:32:40,776 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:32:40,976 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:32:49,617 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:32:49,888 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:32:50,093 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:32:50,298 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:32:58,876 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:32:59,268 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:32:59,613 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:32:59,837 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:33:08,134 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:33:08,366 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:33:08,575 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:33:08,782 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:33:17,393 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:33:17,741 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:33:18,060 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:33:18,318 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:33:21,356 - 📤 etat/hote → 0
+2025-05-12 11:33:21,357 - 📤 etat/service → 0
+2025-05-12 11:33:21,357 - 📤 etat/env → 0
+2025-05-12 11:33:26,662 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:33:26,933 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:33:27,149 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:33:27,350 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:33:35,936 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:33:36,190 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:33:36,404 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:33:36,625 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:33:45,201 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:33:45,444 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:33:45,655 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:33:45,872 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:33:54,467 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:33:54,736 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:33:54,976 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:33:55,188 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:34:03,750 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:34:04,046 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:34:04,302 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:34:04,575 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:34:12,742 - 📤 etat/hote → 0
+2025-05-12 11:34:12,743 - 📤 etat/service → 0
+2025-05-12 11:34:12,743 - 📤 etat/env → 0
+2025-05-12 11:34:12,748 - [TOP 5 CONSOMMATEURS DE MÉMOIRE]
+2025-05-12 11:34:12,748 - <frozen importlib._bootstrap_external>:729: size=33.6 KiB, count=249, average=138 B
+2025-05-12 11:34:12,748 - /usr/lib/python3.11/tracemalloc.py:505: size=11.3 KiB, count=207, average=56 B
+2025-05-12 11:34:12,748 - /home/user/script_centreon/.venv/lib/python3.11/site-packages/paho/mqtt/matcher.py:60: size=11.1 KiB, count=176, average=65 B
+2025-05-12 11:34:12,749 - <frozen abc>:123: size=10.6 KiB, count=116, average=93 B
+2025-05-12 11:34:12,749 - /usr/lib/python3.11/tracemalloc.py:498: size=9936 B, count=207, average=48 B
+2025-05-12 11:34:13,019 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:34:13,247 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:34:13,465 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:34:13,696 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:34:22,299 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:34:22,601 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:34:22,850 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:34:23,109 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:34:31,585 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:34:31,829 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:34:32,078 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:34:32,322 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:34:40,862 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:34:41,151 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:34:41,367 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:34:41,579 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:34:50,167 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:34:50,463 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:34:50,674 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:34:50,882 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0
+2025-05-12 11:34:59,441 - 📩 Nouvelle valeure sur le topic env/eau: 4095.0
+2025-05-12 11:34:59,690 - 📩 Nouvelle valeure sur le topic env/temperature: 25.0
+2025-05-12 11:34:59,899 - 📩 Nouvelle valeure sur le topic env/humidite: 48.0
+2025-05-12 11:35:00,116 - 📩 Nouvelle valeure sur le topic env/gaz: 3.0

@@ -1,0 +1,93 @@
+Traceback (most recent call last):
+  File "/home/user/script_centreon/main_centreon_2_mqtt.py", line 7, in <module>
+    import psutil                                               # 📊 Suivi en temps réel de l'utilisation mémoire
+    ^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/user/script_centreon/main_centreon_2_mqtt.py", line 7, in <module>
+    import psutil                                               # 📊 Suivi en temps réel de l'utilisation mémoire
+    ^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/user/script_centreon/main_centreon_2_mqtt.py", line 7, in <module>
+    import psutil                                               # 📊 Suivi en temps réel de l'utilisation mémoire
+    ^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/user/script_centreon/main_centreon_2_mqtt.py", line 7, in <module>
+    import psutil                                               # 📊 Suivi en temps réel de l'utilisation mémoire
+    ^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/user/script_centreon/main_centreon_2_mqtt.py", line 7, in <module>
+    import psutil                                               # 📊 Suivi en temps réel de l'utilisation mémoire
+    ^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'psutil'
+Nettoyage des logs
+🔌 Configuration MQTT - Broker: 192.168.17.159, Port: 1883
+📡 Topics configurés: ['centreon/+', 'env/+']
+🔄 Tentative de connexion au broker MQTT 192.168.17.159:1883
+🚀 Démarrage de la supervision Centreon vers MQTT...
+✅ Connecté au broker MQTT avec le code de retour: Success
+📡 Abonné au topic: centreon/+
+📡 Abonné au topic: env/+
+📡 Changement détecté: etat/hote → 0
+📡 Changement détecté: etat/service → 0
+📡 Changement détecté: etat/env → 0
+💓 Keep-Alive envoyé: etat/hote → 0
+📤 etat/hote → 0
+💓 Keep-Alive envoyé: etat/service → 0
+📤 etat/service → 0
+💓 Keep-Alive envoyé: etat/env → 0
+📤 etat/env → 0
+📊 Mémoire utilisée : 30.11 Mo
+[TOP 5 CONSOMMATEURS DE MÉMOIRE]
+<frozen importlib._bootstrap_external>:729: size=34.3 KiB, count=254, average=138 B
+<frozen abc>:123: size=12.4 KiB, count=146, average=87 B
+/usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+/usr/lib/python3.11/shlex.py:19: size=2485 B, count=9, average=276 B
+/usr/lib/python3.11/netrc.py:66: size=2236 B, count=8, average=280 B
+💓 Keep-Alive envoyé: etat/hote → 0
+📤 etat/hote → 0
+💓 Keep-Alive envoyé: etat/service → 0
+📤 etat/service → 0
+💓 Keep-Alive envoyé: etat/env → 0
+📤 etat/env → 0
+💓 Keep-Alive envoyé: etat/hote → 0
+📤 etat/hote → 0
+💓 Keep-Alive envoyé: etat/service → 0
+📤 etat/service → 0
+💓 Keep-Alive envoyé: etat/env → 0
+📤 etat/env → 0
+📊 Mémoire utilisée : 30.37 Mo
+[TOP 5 CONSOMMATEURS DE MÉMOIRE]
+<frozen importlib._bootstrap_external>:729: size=33.8 KiB, count=251, average=138 B
+<frozen abc>:123: size=12.1 KiB, count=141, average=88 B
+/usr/lib/python3.11/tracemalloc.py:505: size=11.9 KiB, count=218, average=56 B
+/usr/lib/python3.11/tracemalloc.py:498: size=10.2 KiB, count=218, average=48 B
+/usr/lib/python3.11/tracemalloc.py:193: size=10.2 KiB, count=218, average=48 B
+💓 Keep-Alive envoyé: etat/hote → 0
+📤 etat/hote → 0
+💓 Keep-Alive envoyé: etat/service → 0
+📤 etat/service → 0
+💓 Keep-Alive envoyé: etat/env → 0
+📤 etat/env → 0
+💓 Keep-Alive envoyé: etat/hote → 0
+📤 etat/hote → 0
+💓 Keep-Alive envoyé: etat/service → 0
+📤 etat/service → 0
+💓 Keep-Alive envoyé: etat/env → 0
+📤 etat/env → 0
+📊 Mémoire utilisée : 30.37 Mo
+[TOP 5 CONSOMMATEURS DE MÉMOIRE]
+<frozen importlib._bootstrap_external>:729: size=33.8 KiB, count=251, average=138 B
+<frozen abc>:123: size=12.1 KiB, count=140, average=88 B
+/usr/lib/python3.11/tracemalloc.py:505: size=11.5 KiB, count=210, average=56 B
+/usr/lib/python3.11/tracemalloc.py:498: size=10080 B, count=210, average=48 B
+/usr/lib/python3.11/urllib/parse.py:830: size=4648 B, count=4, average=1162 B
+💓 Keep-Alive envoyé: etat/hote → 0
+📤 etat/hote → 0
+💓 Keep-Alive envoyé: etat/service → 0
+📤 etat/service → 0
+💓 Keep-Alive envoyé: etat/env → 0
+📤 etat/env → 0
